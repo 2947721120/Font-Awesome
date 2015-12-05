@@ -1,12 +1,12 @@
 #[Font Awesome v4.5.0](http://fontawesome.io)
-###The iconic font and CSS framework
+###标志性的字体和CSS框架
 
-Font Awesome is a full suite of 605 pictographic icons for easy scalable vector graphics on websites,
-created and maintained by [Dave Gandy](http://twitter.com/davegandy).
-Stay up to date with the latest release and announcements on Twitter:
+字体真棒是容易的可缩放矢量图形在网站605象形图标全套，
+创建和维护 [Dave Gandy](http://twitter.com/davegandy).
+在推特上最新的发布和公告：
 [@fontawesome](http://twitter.com/fontawesome).
 
-Get started at http://fontawesome.io!
+开始在 http://fontawesome.io!
 
 ##License
 - The Font Awesome font is licensed under the SIL OFL 1.1:
@@ -37,15 +37,15 @@ Get started at http://fontawesome.io!
 - v3.0.1 - much improved rendering in webkit, various bug fixes
 - v3.0.0 - all icons redesigned from scratch, optimized for Bootstrap's 14px default
 
-## Contributing
+## 贡献
 
-Please read through our [contributing guidelines](https://github.com/FortAwesome/Font-Awesome/blob/master/CONTRIBUTING.md).
-Included are directions for opening issues, coding standards, and notes on development.
+请通过我们的阅读 [contributing guidelines](https://github.com/FortAwesome/Font-Awesome/blob/master/CONTRIBUTING.md).
+包括开放问题的方向，编码标准和发展的注意事项
 
-##Versioning
+##版本控制
 
-Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
-with the following format:
+字体真棒将保持语义版本的指引下尽可能。释放将被编号
+以下列格式:
 
 `<major>.<minor>.<patch>`
 
